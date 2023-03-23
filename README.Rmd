@@ -1,0 +1,64 @@
+---
+title: "UAV Phenolentil"
+subtitle: ""
+author: "Derek Michael Wright <derek.wright@usask.ca>"
+date: "20-04-2023"
+output:
+  rmdformats::readthedown:
+    self_contained: yes
+    lightbox: true
+    gallery: true
+    highlight: tango
+    css: custom.css
+  pdf_document:
+    toc: yes
+  github_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = F, warning = F, comment = NA, out.width = "100%")
+```
+
+\pagebreak
+
+---
+
+[Derek Wright, Sandesh Neupane & Kirstin E Bett (2020) **PhenoLentil UAV**](https://github.com/derekmichaelwright/PhenoLentil_UAV) 
+
+---
+
+https://github.com/derekmichaelwright/PhenoLentil_UAV
+
+[View as pdf](https://github.com/derekmichaelwright/PhenoLentil_UAV/raw/master/README.pdf)
+
+[View as HTML](https://derekmichaelwright.github.io/PhenoLentil_UAV/README.html)
+
+[Source Code Vignette (LDP_Protein_Vignette.html)](https://derekmichaelwright.github.io/PhenoLentil_UAV/PhenoLentil_UAV.html)
+
+# Contents
+
+- [Figures](#figures)
+
+# P2IRC
+
+![](Additional/img_P2IRC.png)
+
+\pagebreak
+
+## Collaborators
+
+- Department of Plant Sciences and Crop Development Centre, University of Saskatchewan, Saskatoon, Saskatchewan, Canada
+
+---
+
+# Figures
+
+## Figure 1
+
+![](Figure_01.png)
+
+*Figure 1: *
+
+---
+
+&copy; Derek Michael Wright
